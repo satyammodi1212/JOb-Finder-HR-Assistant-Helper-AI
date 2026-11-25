@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-openai
+huggingface_hub
+chromadb
+pymupdf
+python-docx
+reportlab
+apscheduler

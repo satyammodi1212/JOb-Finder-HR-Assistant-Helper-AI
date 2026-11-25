@@ -1,0 +1,10 @@
+Company name: S.K A.I Development
+What we do: We create AI tools and AI projects for clients and for our own products (for example AI assistants, automation tools, RAG and LLM-based applications).
+Hiring areas: AI / ML engineers, Python backend developers, React frontend developers, data engineers, prompt / LLM engineers, QA, project managers.
+Work culture: small, fast-moving team; hands-on work on real AI products; learning and mentoring; ownership of features.
+Tone of voice: friendly, clear, professional, inclusive. Never mention age, gender, religion or marital status.
+HR contact: ankitmodi117@gmail.com
+EDITABLE FACTS (HR: update these lines; the AI uses only facts written here):
+Location: <add your office / remote policy>
+Benefits: <add benefits, for example learning budget, flexible hours>
+Salary: Discussed with the selected candidate (the AI must never invent a salary figure).
